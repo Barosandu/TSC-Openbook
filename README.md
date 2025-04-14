@@ -33,15 +33,35 @@
 ### Componente Folosite
 
 MCU: ESP32-C6-WROOM-1 (sau echivalent), datorita integrarii Wi-Fi 6, BLE 5 si a puterii de procesare ridicate.
+
+
 Afisaj: Waveshare WSH-13187, e-Paper de 7.5 inch (sau echivalent), cu rezolutie 800x480.
+
+
 Senzori: Bosch BME688 – pentru temperatura, umiditate, presiune si calitatea aerului.
+
+
 Baterie: Baterie Li-Polimer de 2500mAh, cu circuit de protectie integrat.
+
+
 Indicator nivel baterie (Fuel Gauge): Maxim MAX17048 sau echivalent.
+
+
 Circuit de incarcare: Microchip MCP73831 sau echivalent.
+
+
 Butoane: Comutatoare tactile Panasonic EVQ-Q2A03W (sau echivalent).
+
+
 Conector USB-C: Amphenol 12401641E4R (sau echivalent).
+
+
 Conector pentru card microSD: Attend Tech 112A-TAAR-R03 (sau echivalent).
+
+
 Ceas in timp real (RTC): DS3231 (sau echivalent), cu supercapacitor pentru backup.
+
+
 Conector Qwiic/Stemma: pentru conectarea rapida a senzorilor compatibili.
 
 
